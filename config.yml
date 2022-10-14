@@ -7,7 +7,7 @@ Nodes:
   -
     PanelType: "V2board" # Panel type: SSpanel, V2board
     ApiConfig:
-      ApiHost: "https://cloud.shajiangjiang.tk"
+      ApiHost: "https://cloud.shajiangjiang.tk/"
       ApiKey: "xz71426aganv7913nuomi"
       NodeID: 1
       NodeType: V2ray # Node type: V2ray, Shadowsocks, Trojan
